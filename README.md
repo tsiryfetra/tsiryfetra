@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Tsiry Fetra
 
-### 🖥️ Systems, Networks & Security Administrator
-Passionate about infrastructure, securing IT environments, and automation. I focus on deploying reliable, high-performance architectures protected against modern security threats.
+## 👤 About Me
+I am a **Systems, Networks, and Security Administrator** with a strong focus on infrastructure reliability, process automation, and security hardening. I enjoy building efficient IT environments, creating clean technical documentations, and continuous learning through hands-on labs and professional certifications.
+
+Currently looking for new opportunities to deploy, manage, and secure enterprise infrastructures.
 
 ---
+
 
 ## 🏆 Certifications & Badges
 *Click on any badge to verify the official certificate online:*
