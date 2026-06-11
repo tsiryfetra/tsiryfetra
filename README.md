@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Tsiry Fetra
 
-<!--
-**tsiryfetra/tsiryfetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Systems, Networks & Security Administrator
+Passionate about infrastructure, securing IT environments, and automation. I focus on deploying reliable, high-performance architectures protected against modern security threats.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications & Badges
+*Click on any badge to verify the official certificate online:*
+<!-- IMT Badge (Open Badge Factory) -->
+[![IMT - Network Security](https://shields.io)](https://openbadgefactory.com/obv3/credentials/588ac85ace7bae29794cfad373b7c392abddad88)
+
+
+## 🛠️ Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Security & Networking** | Filtering (Iptables/Netfilter), VPN (IPsec/TLS), pfSense, Wireshark, Nmap |
+| **OS & Servers** | GNU/Linux (Debian, Ubuntu), Windows Server (Active Directory, GPOs) |
+| **Automation & IAM** | Bash scripting, PowerShell, Identity and Access Management (IAM) |
+| **Virtualization** | VMware, Proxmox VE |
