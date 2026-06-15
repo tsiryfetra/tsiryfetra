@@ -18,6 +18,18 @@ Passionate about infrastructure, securing IT environments, and automation. I foc
 <!-- Linkedin Learning -->
 [![Cybersecurity with Cloud Computing](https://shields.io)](https://www.linkedin.com/learning/certificates/54a827fae3576d9ac20e365edc4fd9cf77fd2c71e666f1d10512977dca121262)
 
+<!-- Linkedin Learning -->
+[![The Cybersecurity Threat Landscape](https://shields.io)](https://www.linkedin.com/learning/certificates/e0072778b0ea3f703faa6c198b29ed2d23c938dfe37bd5ffe7a5ce371be4199d)
+
+<!-- Linkedin Learning -->
+[![Cybersecurity Awareness: Cloud Security](https://shields.io)](https://www.linkedin.com/learning/certificates/504214b1e21328e3e90aea8a39b21cd73d2277ef513c02d272770a8322a5e4d1)
+
+<!-- Linkedin Learning -->
+[![Cybersecurity Awareness: IoT Devices](https://shields.io)](https://www.linkedin.com/learning/certificates/8b0243f685e428e1249f25d4e92921d1cb2b59ef324372f5a9bd237870c70a85)
+
+<!-- Linkedin Learning -->
+[![Cybersecurity Foundations: Security Architecture](https://shields.io)](https://www.linkedin.com/learning/certificates/29966e934ec02cd5ec5e21fbf3f31dc7383605a16b99d1ce78311c1a03d17f13)
+
 </details>
 
 <details>
@@ -54,6 +66,8 @@ Passionate about infrastructure, securing IT environments, and automation. I foc
 <!-- Linkedin Learning -->
 [![Introduction to Identity and Access Management](https://shields.io)](https://www.linkedin.com/learning/certificates/651908f5fa279b026a337ec49a335f8be4bfe28434f7874f5d12b88399333168)
 
+<!-- Linkedin Learning -->
+[![Microsoft Defender for Endpoint: Securing and Protecting Devices](https://shields.io)](https://www.linkedin.com/learning/certificates/e92e9b4bf22cefecdcd761d3896fdaf3ddf667f9e8aa80b6ad5177bae9d0cd6f)
 </details>
 
 <details>
@@ -65,8 +79,16 @@ Passionate about infrastructure, securing IT environments, and automation. I foc
 
 <!-- Linkedin Learning -->
 [![Amazon Web Service Machine Learning Essential](https://shields.io)](https://www.linkedin.com/learning/certificates/6a88a6ecfa4345d998f3998f81d70b764709b90cc66f734579c4c4d7c2b37e5e)
+
 <!-- Linkedin Learning -->
 [![Learning Virtualization](https://shields.io)](https://www.linkedin.com/learning/certificates/0af86a617cec5c7c640b4199cc1a87aa7795bc28d9e524f936935d4e14fbe5f6)
+
+<!-- Linkedin Learning -->
+[![Computer Science Principles: Digital Information](https://shields.io)](https://www.linkedin.com/learning/certificates/56b388ba80e0e5908c16a5999483b8dd0c37f337e5dd59a371b20eb966978cb5)
+
+<!-- Linkedin Learning -->
+[![Computer Science Principles: The Internet](https://shields.io)](https://www.linkedin.com/learning/certificates/b29f3c3ff6b64dd7aaf3e32f9ab920dd7c2d2d72ec72ebe5d0d1e54e4b917b4a)
+
 </details>
 
 <details>
@@ -85,10 +107,11 @@ Passionate about infrastructure, securing IT environments, and automation. I foc
 <summary><b>📊 Project Management & Agile Tools</b></summary>
 <br>
 
-<!-- Remplacer le lien générique ci-dessous par votre vrai lien Jira quand vous l'aurez -->
 [![Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues](https://shields.io)](https://www.linkedin.com/learning/certificates/154583c18a80cdfae5e754ede5cb70d6094ed4d66ace9c1d70160f6c5d4679a8)
 
 [![Agile Project Management with Jira Cloud: 2 Lean and Agile Processes](https://shields.io)](https://www.linkedin.com/learning/certificates/5f1b87009aa751e77d24baa6a8836951285bf31079f47e2b1cc3d105376e7f00)
+
+[![Agile Project Management with Jira Cloud: 3 Advanced Topics](https://shields.io)](https://www.linkedin.com/learning/certificates/f2895310aca77517a96b9eafe784722c30cb559c48844938155ba9a9fb202d6f)
 </details>
 
 ## 🛠️ Technical Skills
