@@ -30,6 +30,7 @@ Passionate about infrastructure, securing IT environments, and automation. I foc
 <!-- Linkedin Learning -->
 [![Cybersecurity Foundations: Security Architecture](https://shields.io)](https://www.linkedin.com/learning/certificates/29966e934ec02cd5ec5e21fbf3f31dc7383605a16b99d1ce78311c1a03d17f13)
 
+[![OPSWat Cybersecurity Fundamentals Associate](https://shields.io)](https://learn.opswatacademy.com/certificate/zj0MIPU6qg)
 </details>
 
 <details>
