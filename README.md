@@ -57,7 +57,7 @@ Welcome to my professional development repository. This space centralizes all va
 </details>
 
 <details>
-<summary><b>🛡️ Defensive SecOps Lab & Multi-Site Infrastructure Hardening (Ethical Hacking Project)</b></summary>
+<summary><b>🛡️ Defensive SecOps Lab & Multi-Site Infrastructure Hardening | Ethical Hacking Projec (Sahaza Group)</b></summary>
 <br>
    
 *   **Operational Objective:** Built an ethical hacking simulation sandbox to continuously audit, detect vulnerabilities, and harden the multi-tenant production infrastructure across **4 physical corporate sites**.
@@ -69,7 +69,7 @@ Welcome to my professional development repository. This space centralizes all va
         *   *Server 2*: Archive synchronization nodes executing a strict **30-day automated file retention and cleanup policy**.
 *   **Penetration Testing & Vulnerability Assessment:** Utilized **Kali Linux** offensive security distributions and advanced network mapping/scanning utilities to perform proactive security audits (including credential checks, configuration flaws, and open port hunting) against the corporate mail, file, and web servers.
 *   **Result:** Systematically eliminated architecture configuration blind spots, improved internal patch management, and significantly elevated the global security posture of the distributed multi-site network.
-
+</details>
 ---
 
 ## 🏆 Professional Certifications & Continuing Education
