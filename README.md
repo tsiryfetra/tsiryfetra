@@ -5,6 +5,73 @@ Welcome to my professional development repository. This space centralizes all va
 
 ---
 
+## 🚀 Realized Production Projects
+
+<details>
+<summary><b>🌐 Secure Corporate Infrastructure Deployment (120 Users / 3-Shift Operations) — May 2026 (Sahaza Group)</b></summary>
+<br>
+   
+*   **Operational Objective:** Architected and deployed an infrastructure designed for 24/7 total availability, supporting **120 active users** across 3 operational shifts (AM-PM-NIGHT).
+*   **Virtualization & High Availability:** Implemented a resilient hypervisor cluster running two Dell servers under **Proxmox VE** to ensure automatic failover and redundancy for critical services.
+*   **Perimeter Security & Multi-WAN:** Deployed a **pfSense** security gateway managing dual internet sources (**Telma Fiber Optique & Starlink Satellite**) with automated failover and strict inbound/outbound packet filtering.
+*   **Advanced Network Segmentation (HP Manageable Switching):** Engineered a granular **VLAN** topology to isolate broadcast domains and reinforce security perimeters:
+    *   `VLAN 10 (Management)`: Dedicated equipment administration and hardware monitoring isolation.
+    *   `VLAN 20 (Users)`: Specialized subnet managing **40 secure workstations** running Windows 11 Pro with dedicated DHCP mapping.
+    *   `VLAN 30 (Servers)`: Centralized core hosting **Active Directory (Windows Server 2019)** seamlessly interconnected with **Ubuntu Server 24.04 LTS** file shares via Samba, SSSD, and Winbind.
+    *   `VLAN 40 (SIEM/SOC)`: Isolated telemetry zone running security collectors under Debian 12.
+    *   `VLAN 50 (Backup)`: Isolated network segment for automated historical data archiving.
+*   **Security Operations (SOC) & Telemetry:** Integrated **Wazuh SIEM** for active host intrusion detection and log analysis, paired with real-time performance dashboards built on **Prometheus & Grafana**.
+*   **Result:** A production-ready, highly resilient corporate infrastructure capable of absorbing complete ISP link failures transparently with centralized access control using AD credentials.
+  </details>
+
+<details>
+<summary><b>📧 Corporate Mail Infrastructure Lifecycle & Migration (Sahaza Group)</b></summary>
+<br>
+   
+*   **Initial Deployment (April):** Designed and deployed a secure, centralized corporate mail server infrastructure tailored for **280 collaborators**, ensuring seamless multi-tenant internal communications.
+*   **Hetzner Bare-Metal Architecture:** Maintained high-availability services and managed network routing, storage perimeters, and deliverability matrices on dedicated bare-metal infrastructure.
+*   **Contabo VPS Emergency Migration:** Following critical external provider restrictions, orchestrated a rapid, end-to-end migration to a new **Contabo Cloud VPS (16 vCPU, 64GB RAM)**.
+*   **Zero-Loss Execution:** Successfully transferred and re-indexed **300 active mailboxes** (including secure folders, sieve rules, configuration paths, and user data) with **0% data loss** and achieved **100% operational status in 36 hours** from initial root access.
+*   **Security & Deliverability Hardening:** Enforced strict multi-layered public records, locking down **SPF hard-fail, DKIM keys, global DMARC p=reject policies, and Reverse PTR** records to neutralize identity spoofing and guarantee maximum deliverability.
+  </details>
+
+<details>
+<summary><b>🛡️ Critical Disaster Recovery & Infrastructure Resilience (Sahaza Group)</b></summary>
+<br>
+ 
+*   **Incident Response:** Following a catastrophic fire that completely destroyed the corporate headquarters, led the emergency IT crisis response unit as the core technical coordinator.
+*   **Emergency Infrastructure Rebuild:** Re-routed, architected, and physically rebuilt the entire localized network infrastructure, core server environment (Proxmox VE/pfSense), and localized power distributions on a temporary facility from scratch.
+*   **Business Continuity:** Restored **100% of critical corporate services and remote workforce operations in under 48 hours with absolute zero data loss**, leveraging secure, automated, encrypted multi-site "bare-metal" backup architectures.
+</details>
+
+<details>
+<summary><b>🤖 Sovereign AI Infrastructure & Intelligent Workflow Automation (Personal Homelab Project)</b></summary>
+<br>
+
+*   **Operational Objective:** Architected and deployed a fully offline, self-hosted Artificial Intelligence mini-lab to automate personal data processing without cloud dependency.
+*   **Local AI Engine & Large Language Model:** Configured and deployed **Ollama** on local hardware to run the **Qwen 2.5 7B/14B / Qwen 3.5 9B** models locally, ensuring data privacy and execution sovereignty.
+*   **Automated Workflow Engineering:** Built and orchestrated complex event-driven integration scenarios using **n8n** (advanced workflow automation tool).
+*   **Intelligent Email Triage:** Interconnected n8n with personal Gmail storage via secure authentication protocols to retrieve, parse, and feed incoming communications into the local Qwen LLM for real-time sentiment analysis and categorization.
+*   **Daily Multi-Channel Reporting:** Programmed scheduled automation tasks to synthesize evaluated data and push an intelligent, aggregated daily summary directly to **WhatsApp** interfaces via API routing.
+*   **Result:** A production-grade, 100% private, sovereign automated triaging ecosystem proving advanced skills in workflow engineering, API integrations, and self-hosted AI infrastructures.
+</details>
+
+<details>
+<summary><b>🛡️ Defensive SecOps Lab & Multi-Site Infrastructure Hardening | Ethical Hacking Projec (Sahaza Group)</b></summary>
+<br>
+   
+*   **Operational Objective:** Built an ethical hacking simulation sandbox to continuously audit, detect vulnerabilities, and harden the multi-tenant production infrastructure across **4 physical corporate sites**.
+*   **Multi-Site Production Architecture Under Assessment:** Directly responsible for the deployment, configuration, and maintenance of **7 local production servers** distributed across sites:
+    *   `3 File Servers (Ubuntu Server + Samba)`: Engineered for strict identity management using Hierarchical Access Control and Role-Based Access Control (**RBAC**) frameworks.
+    *   `2 Web Servers (Debian 12 + LAMP Stack)`: Hosting local corporate web development deployments and internal platforms.
+    *   `2 Backup Servers (Ubuntu Server)`: Running dual-strategy resilience redundancy:
+        *   *Server 1*: Automated incremental scripts with full centralized telemetry logs managed via **Webmin and cron job with bash script**.
+        *   *Server 2*: Archive synchronization nodes executing a strict **30-day automated file retention and cleanup policy**.
+*   **Penetration Testing & Vulnerability Assessment:** Utilized **Kali Linux** offensive security distributions and advanced network mapping/scanning utilities to perform proactive security audits (including credential checks, configuration flaws, and open port hunting) against the corporate mail, file, and web servers.
+*   **Result:** Systematically eliminated architecture configuration blind spots, improved internal patch management, and significantly elevated the global security posture of the distributed multi-site network.
+</details>
+---
+
 ## 🏆 Professional Certifications & Continuing Education
 *Click on a category to expand and verify my certificates:*
 
@@ -126,19 +193,6 @@ Welcome to my professional development repository. This space centralizes all va
 </details>
 
 <details>
-<summary><b>🗣️ Languages & Professional Communication</b></summary>
-
-* **English for Career Development: Interviewing for a Job** (U.S. Department of State / Parchment)  
-  [![Parchment - Verify](https://shields.io)](https://badges.parchment.com/public/assertions/AwW1rbUTQHyO6Aiz2APPmw?utm_source=url_copy&identity__email=tsiryfetra%40gmail.com)
-
-* **Unlock Your English** (Institut Mines-Télécom / FUN-MOOC)  
-  [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com/obv3/credentials/fb8e5b00a535ce5cb232c0c7811b1fad4f0c11a6)
-
-* **Unlock Your English 2 (Advanced Curriculum - 80% Threshold)** (Institut Mines-Télécom / FUN-MOOC)  
-  [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com/obv3/credentials/0a28303e566b8e680f0324d331c0d271b3994625)
-</details>
-
-<details>
 <summary><b>☁️ Microsoft Learn</b></summary>
 
 ### 🛡️ Sécurité, Conformité & Gestion des Identités (Microsoft Learn)
@@ -187,14 +241,41 @@ Welcome to my professional development repository. This space centralizes all va
 *   **AZ-104 : Prérequis pour les administrateurs Azure**  
     [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/N2D2PHKF?sharingId=632E5C59E45996DB)
 
-
 </details> 
 
-## 🛠️ Technical Skills
+<details>
+<summary><b>🗣️ Languages & Professional Communication</b></summary>
+<br>
 
-| Domain | Technologies |
+Ability to evolve seamlessly within international, intergovernmental, and multicultural work environments.
+
+* **Malagasy :** Native language.
+* **French:**  Full professional proficiency.
+* **English:** Professional working proficiency.
+* 
+  * **English for Career Development: Interviewing for a Job** (U.S. Department of State / Parchment)  
+    [![Parchment - Verify](https://shields.io)](https://parchment.com)
+  * **Unlock Your English 2 (Advanced Curriculum - 80% Threshold)** (Institut Mines-Télécom / FUN-MOOC)  
+    [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com)
+  * **Unlock Your English** (Institut Mines-Télécom / FUN-MOOC)  
+    [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com)
+    </details>
+
+## 🛠️ Technical Skills Portfolio
+
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Security & Networking** | Filtering (Iptables/Netfilter), VPN (IPsec/TLS), pfSense, Wireshark, Nmap |
-| **OS & Servers** | GNU/Linux (Debian, Ubuntu), Microsoft (EntraID, AzureAD, AD), Apple MacOS |
-| **Automation & IAM** | Bash scripting, PowerShell, Identity and Access Management (IAM) |
-| **Virtualization** | VMware, Proxmox VE |
+| **Security & MCO** | Netfilter/Iptables filtering, Fail2ban advanced hardening, VPN (IPsec/TLS), Wazuh SIEM, Wireshark, Nmap |
+| **Sovereign Messaging** | Mailcow architecture, iRedMail, Postfix-Dovecot, Docker Compose, Delivery compliance (SPF, DKIM, DMARC, Reverse PTR) |
+| **OS & Directory Services** | GNU/Linux (Debian, Ubuntu Server), Microsoft Entra ID (Azure AD), Active Directory, Apple macOS |
+| **Virtualization & HA** | Proxmox VE hypervisor, VMware, Clusters & High Availability storage solutions |
+| **Automation & Tooling** | Bash scripting, Cron job engineering, Jira Service Management |
+| **Physical Infrastructure** | Structured network cabling, Datacenter power planning, Off-grid hybrid photovoltaic solar system sizing |
+
+---
+
+## 🔒 Verifiability Notice
+
+All original digital credentials, transcripts, and official verification badges listed above are securely managed. Verifiable cryptographic records or signed documentation can be produced immediately upon institutional request.
+
+
