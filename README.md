@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Tsiry Fetra
 
-### 🖥️ Systems, Networks & Security Administrator
-Passionate about infrastructure, securing IT environments, and automation. I focus on deploying reliable, high-performance architectures protected against modern security threats.
+### 🖥️ Systems, Networks, Identity & Security Administrator
+Welcome to my professional development repository. This space centralizes all valid certifications, advanced training, and continuing professional development (CPD) credentials earned throughout my career. It acts as an official appendix to my application for senior IT operations and infrastructure leadership roles.
 
 ---
 
-## 🏆 Certifications & Badges
+## 🏆 Professional Certifications & Continuing Education
 *Click on a category to expand and verify my certificates:*
 
 <details>
@@ -120,7 +120,7 @@ Passionate about infrastructure, securing IT environments, and automation. I foc
 | Domain | Technologies |
 | :--- | :--- |
 | **Security & Networking** | Filtering (Iptables/Netfilter), VPN (IPsec/TLS), pfSense, Wireshark, Nmap |
-| **OS & Servers** | GNU/Linux (Debian, Ubuntu), Microsoft (EntraID, AzureAD, Active Directory) |
+| **OS & Servers** | GNU/Linux (Debian, Ubuntu), Microsoft (EntraID, AzureAD, AD), Apple MacOS |
 | **Automation & IAM** | Bash scripting, PowerShell, Identity and Access Management (IAM) |
 | **Virtualization** | VMware, Proxmox VE |
 
