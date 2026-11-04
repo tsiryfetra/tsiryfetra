@@ -38,6 +38,12 @@ Welcome to my professional development repository. This space centralizes all va
 <summary><b>🌐 Networking & Infrastructure</b></summary>
 <br>
 
+* **Administrateur Microsoft 365 et Google Workspace** (Vitako.mg)  
+  [![Vitako - Verify](https://shields.io)](https://vitako.mg/#/attestation/VTK-2026-AB3991)
+
+* **Administrateur systèmes et DevOps – Avancé** (Vitako.mg)  
+  [![Vitako - Verify](https://shields.io)](https://vitako.mg/#/attestation/VTK-2026-51D3D9)
+
 * **Sécurité des Réseaux Informatiques - Badge de réussite** (Institut Mines-Télécom / FUN-MOOC)  
   [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com/obv3/credentials/588ac85ace7bae29794cfad373b7c392abddad88)
 
