@@ -182,6 +182,12 @@ Welcome to my professional development repository. This space centralizes all va
 *   **Étendre Microsoft 365 avec Copilot**  
     [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/HA2ZA378?sharingId=632E5C59E45996DB)
 
+*   **Principes de base de Microsoft Azure : description des concepts du cloud**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/P56TT624?sharingId=632E5C59E45996DB)
+*   **AZ-104 : Prérequis pour les administrateurs Azure**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/N2D2PHKF?sharingId=632E5C59E45996DB)
+
+
 </details> 
 
 ## 🛠️ Technical Skills
