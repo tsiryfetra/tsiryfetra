@@ -138,6 +138,52 @@ Welcome to my professional development repository. This space centralizes all va
   [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com/obv3/credentials/0a28303e566b8e680f0324d331c0d271b3994625)
 </details>
 
+<details>
+<summary><b>☁️ Microsoft Learn</b></summary>
+
+### 🛡️ Sécurité, Conformité & Gestion des Identités (Microsoft Learn)
+
+* **Administrer l'identité et l'authentification des appareils (Microsoft Entra ID)**  
+  [![Microsoft - EntraID](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/WMAKMKWN?sharingId=632E5C59E45996DB)
+*   **Décrire les fonctionnalités de base de Copilot de sécurité Microsoft**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/P58FWRB4?sharingId=632E5C59E45996DB)
+*   **Explorer l'identité dans Microsoft Entra ID**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/UY7FF753?sharingId=632E5C59E45996DB)
+*   **Créer, configurer et gérer des identités**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/WZMAFSLN?sharingId=632E5C59E45996DB)
+*   **Contrôler l'accès à vos API avec Gestion des API Azure**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/N2QAWW9F?sharingId=632E5C59E45996DB)
+*   **Décrire les fonctionnalités de protection contre les cyberattaques de Microsoft**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/XPZFCLPY?sharingId=632E5C59E45996DB)
+*   **Décrire les fonctionnalités de gestion de la sécurité de Microsoft**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/8VX58VNW?sharingId=632E5C59E45996DB)
+
+### ☁️ Fondamentaux du Cloud & Expériences Connectées (Microsoft Learn)
+*   **Décrire les types de services cloud**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/3RPDJ8VH?sharingId=632E5C59E45996DB)
+*   **Décrire les avantages de l'utilisation des services cloud**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/UYEBYPZ3?sharingId=632E5C59E45996DB)
+*   **Décrire le cloud computing**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/9XQVHV7U?sharingId=632E5C59E45996DB)
+*   **Décrire les expériences intégrées de Microsoft 365**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/9XQ2CEYU?sharingId=632E5C59E45996DB)
+*   **Décrire les fonctionnalités de gestion des fonctionnalités d'entreprise de M365**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/87K7QUEW?sharingId=632E5C59E45996DB)
+*   **Optimiser votre investissement dans Microsoft 365**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/HA4AU978?sharingId=632E5C59E45996DB)
+
+### 📊 Modernisation, Collaboration & Productivité (Microsoft Learn)
+*   **Décrire les fonctionnalités de productivité de Microsoft 365**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/3RPRP7VH?sharingId=632E5C59E45996DB)
+*   **Décrire les fonctionnalités de travail en équipe de Microsoft 365**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/VD9JC5ZM?sharingId=632E5C59E45996DB)
+*   **Analyse des données d'entreprise avec Microsoft Purview**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/WZBSYCXN?sharingId=632E5C59E45996DB)
+*   **Étendre Microsoft 365 avec Copilot**  
+    [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/HA2ZA378?sharingId=632E5C59E45996DB)
+
+</details> 
+
 ## 🛠️ Technical Skills
 
 | Domain | Technologies |
