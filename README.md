@@ -144,7 +144,7 @@ Welcome to my professional development repository. This space centralizes all va
 ### 🛡️ Sécurité, Conformité & Gestion des Identités (Microsoft Learn)
 
 * **Administrer l'identité et l'authentification des appareils (Microsoft Entra ID)**  
-  [![Microsoft - EntraID](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/WMAKMKWN?sharingId=632E5C59E45996DB)
+  [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/WMAKMKWN?sharingId=632E5C59E45996DB)
 *   **Décrire les fonctionnalités de base de Copilot de sécurité Microsoft**  
     [![Microsoft - Verify](https://shields.io)](https://learn.microsoft.com/api/achievements/share/fr-fr/RAKOTOARIMINOTsiryFetra-1696/P58FWRB4?sharingId=632E5C59E45996DB)
 *   **Explorer l'identité dans Microsoft Entra ID**  
