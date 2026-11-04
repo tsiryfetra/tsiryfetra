@@ -56,6 +56,20 @@ Welcome to my professional development repository. This space centralizes all va
 *   **Result:** A production-grade, 100% private, sovereign automated triaging ecosystem proving advanced skills in workflow engineering, API integrations, and self-hosted AI infrastructures.
 </details>
 
+<details>
+<summary><b>🛡️ Defensive SecOps Lab & Multi-Site Infrastructure Hardening (Ethical Hacking Project)</b></summary>
+<br>
+   
+*   **Operational Objective:** Built an ethical hacking simulation sandbox to continuously audit, detect vulnerabilities, and harden the multi-tenant production infrastructure across **4 physical corporate sites**.
+*   **Multi-Site Production Architecture Under Assessment:** Directly responsible for the deployment, configuration, and maintenance of **7 local production servers** distributed across sites:
+    *   `3 File Servers (Ubuntu Server + Samba)`: Engineered for strict identity management using Hierarchical Access Control and Role-Based Access Control (**RBAC**) frameworks.
+    *   `2 Web Servers (Debian 12 + LAMP Stack)`: Hosting local corporate web development deployments and internal platforms.
+    *   `2 Backup Servers (Ubuntu Server)`: Running dual-strategy resilience redundancy:
+        *   *Server 1*: Automated incremental scripts with full centralized telemetry logs managed via **Webmin and cron job with bash script**.
+        *   *Server 2*: Archive synchronization nodes executing a strict **30-day automated file retention and cleanup policy**.
+*   **Penetration Testing & Vulnerability Assessment:** Utilized **Kali Linux** offensive security distributions and advanced network mapping/scanning utilities to perform proactive security audits (including credential checks, configuration flaws, and open port hunting) against the corporate mail, file, and web servers.
+*   **Result:** Systematically eliminated architecture configuration blind spots, improved internal patch management, and significantly elevated the global security posture of the distributed multi-site network.
+
 ---
 
 ## 🏆 Professional Certifications & Continuing Education
