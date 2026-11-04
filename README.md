@@ -7,7 +7,10 @@ Welcome to my professional development repository. This space centralizes all va
 
 ## 🚀 Realized Production Projects
 
-### 🌐 Secure Corporate Infrastructure Deployment (120 Users / 3-Shift Operations) — May 2026 (Sahaza Group)
+<details>
+<summary><b>🌐 Secure Corporate Infrastructure Deployment (120 Users / 3-Shift Operations) — May 2026 (Sahaza Group)</b></summary>
+<br>
+   
 *   **Operational Objective:** Architected and deployed an infrastructure designed for 24/7 total availability, supporting **120 active users** across 3 operational shifts (AM-PM-NIGHT).
 *   **Virtualization & High Availability:** Implemented a resilient hypervisor cluster running two Dell servers under **Proxmox VE** to ensure automatic failover and redundancy for critical services.
 *   **Perimeter Security & Multi-WAN:** Deployed a **pfSense** security gateway managing dual internet sources (**Telma Fiber Optique & Starlink Satellite**) with automated failover and strict inbound/outbound packet filtering.
@@ -19,6 +22,7 @@ Welcome to my professional development repository. This space centralizes all va
     *   `VLAN 50 (Backup)`: Isolated network segment for automated historical data archiving.
 *   **Security Operations (SOC) & Telemetry:** Integrated **Wazuh SIEM** for active host intrusion detection and log analysis, paired with real-time performance dashboards built on **Prometheus & Grafana**.
 *   **Result:** A production-ready, highly resilient corporate infrastructure capable of absorbing complete ISP link failures transparently with centralized access control using AD credentials.
+  </details>
 
 ### 📧 Corporate Mail Infrastructure Lifecycle & Migration (Sahaza Group)
 *   **Initial Deployment (April):** Designed and deployed a secure, centralized corporate mail server infrastructure tailored for **280 collaborators**, ensuring seamless multi-tenant internal communications.
