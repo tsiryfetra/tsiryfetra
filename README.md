@@ -24,17 +24,25 @@ Welcome to my professional development repository. This space centralizes all va
 *   **Result:** A production-ready, highly resilient corporate infrastructure capable of absorbing complete ISP link failures transparently with centralized access control using AD credentials.
   </details>
 
-### 📧 Corporate Mail Infrastructure Lifecycle & Migration (Sahaza Group)
+<details>
+<summary><b>📧 Corporate Mail Infrastructure Lifecycle & Migration (Sahaza Group)</b></summary>
+<br>
+   
 *   **Initial Deployment (April):** Designed and deployed a secure, centralized corporate mail server infrastructure tailored for **280 collaborators**, ensuring seamless multi-tenant internal communications.
 *   **Hetzner Bare-Metal Architecture:** Maintained high-availability services and managed network routing, storage perimeters, and deliverability matrices on dedicated bare-metal infrastructure.
 *   **Contabo VPS Emergency Migration:** Following critical external provider restrictions, orchestrated a rapid, end-to-end migration to a new **Contabo Cloud VPS (16 vCPU, 64GB RAM)**.
 *   **Zero-Loss Execution:** Successfully transferred and re-indexed **300 active mailboxes** (including secure folders, sieve rules, configuration paths, and user data) with **0% data loss** and achieved **100% operational status in 36 hours** from initial root access.
 *   **Security & Deliverability Hardening:** Enforced strict multi-layered public records, locking down **SPF hard-fail, DKIM keys, global DMARC p=reject policies, and Reverse PTR** records to neutralize identity spoofing and guarantee maximum deliverability.
+  </details>
 
-### 🛡️ Critical Disaster Recovery & Infrastructure Resilience (Sahaza Group)
+<details>
+<summary><b>🛡️ Critical Disaster Recovery & Infrastructure Resilience (Sahaza Group)</b></summary>
+<br>
+ 
 *   **Incident Response:** Following a catastrophic fire that completely destroyed the corporate headquarters, led the emergency IT crisis response unit as the core technical coordinator.
 *   **Emergency Infrastructure Rebuild:** Re-routed, architected, and physically rebuilt the entire localized network infrastructure, core server environment (Proxmox VE/pfSense), and localized power distributions on a temporary facility from scratch.
 *   **Business Continuity:** Restored **100% of critical corporate services and remote workforce operations in under 48 hours with absolute zero data loss**, leveraging secure, automated, encrypted multi-site "bare-metal" backup architectures.
+</details>
 
 ---
 
@@ -180,7 +188,9 @@ Welcome to my professional development repository. This space centralizes all va
   [![LinkedIn - Verify](https://shields.io)](https://linkedin.com)
 </details>
 
-## 🗣️ Languages & Professional Communication
+<details>
+<summary><b>🗣️ Languages & Professional Communication</b></summary>
+<br>
 
 Ability to evolve seamlessly within international, intergovernmental, and multicultural work environments.
 
@@ -194,6 +204,7 @@ Ability to evolve seamlessly within international, intergovernmental, and multic
     [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com)
   * **Unlock Your English** (Institut Mines-Télécom / FUN-MOOC)  
     [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com)
+    </details>
 
 ## 🛠️ Technical Skills Portfolio
 
