@@ -125,6 +125,19 @@ Welcome to my professional development repository. This space centralizes all va
   [![LinkedIn - Verify](https://shields.io)](https://www.linkedin.com/learning/certificates/f2895310aca77517a96b9eafe784722c30cb559c48844938155ba9a9fb202d6f)
 </details>
 
+<details>
+<summary><b>🗣️ Languages & Professional Communication</b></summary>
+
+* **English for Career Development: Interviewing for a Job** (U.S. Department of State / Parchment)  
+  [![Parchment - Verify](https://shields.io)](https://badges.parchment.com/public/assertions/AwW1rbUTQHyO6Aiz2APPmw?utm_source=url_copy&identity__email=tsiryfetra%40gmail.com)
+
+* **Unlock Your English** (Institut Mines-Télécom / FUN-MOOC)  
+  [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com/obv3/credentials/fb8e5b00a535ce5cb232c0c7811b1fad4f0c11a6)
+
+* **Unlock Your English 2 (Advanced Curriculum - 80% Threshold)** (Institut Mines-Télécom / FUN-MOOC)  
+  [![FUN MOOC - Verify](https://shields.io)](https://openbadgefactory.com/obv3/credentials/0a28303e566b8e680f0324d331c0d271b3994625)
+</details>
+
 ## 🛠️ Technical Skills
 
 | Domain | Technologies |
