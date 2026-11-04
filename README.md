@@ -44,6 +44,18 @@ Welcome to my professional development repository. This space centralizes all va
 *   **Business Continuity:** Restored **100% of critical corporate services and remote workforce operations in under 48 hours with absolute zero data loss**, leveraging secure, automated, encrypted multi-site "bare-metal" backup architectures.
 </details>
 
+<details>
+<summary><b>🤖 Sovereign AI Infrastructure & Intelligent Workflow Automation (Personal Homelab Project)</b></summary>
+<br>
+
+*   **Operational Objective:** Architected and deployed a fully offline, self-hosted Artificial Intelligence mini-lab to automate personal data processing without cloud dependency.
+*   **Local AI Engine & Large Language Model:** Configured and deployed **Ollama** on local hardware to run the **Qwen 2.5 7B/14B / Qwen 3.5 9B** models locally, ensuring data privacy and execution sovereignty.
+*   **Automated Workflow Engineering:** Built and orchestrated complex event-driven integration scenarios using **n8n** (advanced workflow automation tool).
+*   **Intelligent Email Triage:** Interconnected n8n with personal Gmail storage via secure authentication protocols to retrieve, parse, and feed incoming communications into the local Qwen LLM for real-time sentiment analysis and categorization.
+*   **Daily Multi-Channel Reporting:** Programmed scheduled automation tasks to synthesize evaluated data and push an intelligent, aggregated daily summary directly to **WhatsApp** interfaces via API routing.
+*   **Result:** A production-grade, 100% private, sovereign automated triaging ecosystem proving advanced skills in workflow engineering, API integrations, and self-hosted AI infrastructures.
+</details>
+
 ---
 
 ## 🏆 Professional Certifications & Continuing Education
