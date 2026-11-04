@@ -178,11 +178,11 @@ Welcome to my professional development repository. This space centralizes all va
 
 ## 🗣️ Languages & Professional Communication
 
-Aptitude à évoluer avec aisance au sein d'environnement de travail intergouvernementaux et multiculturels.
+Ability to evolve seamlessly within international, intergovernmental, and multicultural work environments.
 
-* **Malagasy :** Langue maternelle.
-* **Français :** Maîtrise professionnelle complète.
-* **Anglais :** Aisance professionnelle opérationnelle.
+* **Malagasy :** Native language.
+* **French:**  Full professional proficiency.
+* **English:** Professional working proficiency.
 * 
   * **English for Career Development: Interviewing for a Job** (U.S. Department of State / Parchment)  
     [![Parchment - Verify](https://shields.io)](https://parchment.com)
@@ -196,7 +196,7 @@ Aptitude à évoluer avec aisance au sein d'environnement de travail intergouver
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Security & MCO** | Netfilter/Iptables filtering, Fail2ban advanced hardening, VPN (IPsec/TLS), Wazuh SIEM, Wireshark, Nmap |
-| **Sovereign Messaging** | Mailcow architecture, Postfix, Dovecot, Docker Compose, Delivery compliance (SPF, DKIM, DMARC, Reverse PTR) |
+| **Sovereign Messaging** | Mailcow architecture, iRedMail, Postfix-Dovecot, Docker Compose, Delivery compliance (SPF, DKIM, DMARC, Reverse PTR) |
 | **OS & Directory Services** | GNU/Linux (Debian, Ubuntu Server), Microsoft Entra ID (Azure AD), Active Directory, Apple macOS |
 | **Virtualization & HA** | Proxmox VE hypervisor, VMware, Clusters & High Availability storage solutions |
 | **Automation & Tooling** | Bash scripting, Cron job engineering, Jira Service Management |
